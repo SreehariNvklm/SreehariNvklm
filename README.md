@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 3D: OpenCV, Open3D, Blender, Unreal Engine (MetaHuman integration)
 
 ### 📫 Reach me:
-- LinkedIn: [[Your Link]](https://www.linkedin.com/in/sreehari-j-r-1b9b991ba/)
+- LinkedIn: [sreehari-j-r-1b9b991ba](https://www.linkedin.com/in/sreehari-j-r-1b9b991ba/)
 - Email: shnvklm2004@gmail.com
 
 #### 💬 Reach out for further queries :)
