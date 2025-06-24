@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 I'm Sree Hari
+## Hi there 👋 I'm Sreehari
 
 ### 🧠 Specializations
 - 🤖 Generative AI (Text, Image, and Video models)
